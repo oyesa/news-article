@@ -1,0 +1,15 @@
+h2.introduction {
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+p.introduction {
+  text-align: justify;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: small;
+}
+
+img.introduction {
+  float: right;
+}
