@@ -13,3 +13,8 @@ p.introduction {
 img.introduction {
   float: right;
 }
+
+h1.introduction {
+  font-size: larger;
+  color: brown;
+}
